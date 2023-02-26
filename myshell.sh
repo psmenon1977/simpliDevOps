@@ -1,2 +1,2 @@
 echo "hello git world"
-echo "hello SG"
+echo "hello Singapore"
